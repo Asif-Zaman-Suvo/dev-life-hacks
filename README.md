@@ -5,16 +5,16 @@ Real-world tips, terminal tricks, and workflows — tested on my own setup, writ
 This repo is a **growing collection of articles**. New life hacks and guides will be added over time.
 
 ![Articles](https://img.shields.io/badge/Articles-1-blue)
-![Language](https://img.shields.io/badge/Language-English-lightgrey)
+![Language](https://img.shields.io/badge/Language-English%20%7C%20Bengali-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
 ## Articles
 
-| # | Title | Topic | Read |
-|---|---|---|---|
-| 1 | [How I Reclaimed 125 GB on macOS Overnight](./free-macos-storage.md) | macOS · Terminal · Storage | May 2026 |
+| # | Title | Language | Topic | Read |
+|---|---|---|---|---|
+| 1 | How I Reclaimed 125 GB on macOS Overnight | EN · [BN](./free-macos-storage-bn.md) | macOS · Terminal · Storage | [English](./free-macos-storage.md) · [বাংলা](./free-macos-storage-bn.md) |
 
 ### Coming soon
 
@@ -46,7 +46,7 @@ Reclaimed **125 GB** overnight using Terminal only — no third-party cleaner ap
 | Aerial wallpaper videos | 9.4 GB |
 | Chrome, JetBrains & dev caches | ~33.6 GB |
 
-**[Read the full guide →](./free-macos-storage.md)**
+**[English →](./free-macos-storage.md)** · **[বাংলা →](./free-macos-storage-bn.md)**
 
 ---
 
@@ -54,9 +54,10 @@ Reclaimed **125 GB** overnight using Terminal only — no third-party cleaner ap
 
 ```
 Blog-Post/
-├── README.md                 # Article index (you are here)
-├── free-macos-storage.md     # macOS storage cleanup guide
-└── ...                       # Future articles go here
+├── README.md                   # Article index (you are here)
+├── free-macos-storage.md       # macOS storage cleanup (English)
+├── free-macos-storage-bn.md    # macOS storage cleanup (Bengali)
+└── ...                         # Future articles go here
 ```
 
 ### Adding a new article

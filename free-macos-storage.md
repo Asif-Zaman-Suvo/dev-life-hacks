@@ -4,6 +4,8 @@
 
 ![macOS Storage](https://img.shields.io/badge/macOS-Tahoe-blue?logo=apple) ![Terminal](https://img.shields.io/badge/Tool-Terminal-black?logo=gnome-terminal) ![Storage Freed](https://img.shields.io/badge/Storage%20Freed-125%20GB-brightgreen) ![Free Now](https://img.shields.io/badge/Free%20Now-129%20GB-success)
 
+[বাংলা সংস্করণ](./free-macos-storage-bn.md)
+
 ---
 
 ## 📋 Table of Contents
